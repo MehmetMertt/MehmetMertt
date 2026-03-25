@@ -5,9 +5,7 @@
 </p>
 
 <h3 align="left">Currently working on:</h3>
-<p align="left">
-  <b>Sparklink:</b> Collaborative University Project — Kickstarter Clone with Fontys University Eindhoven
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
